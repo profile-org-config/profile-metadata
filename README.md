@@ -4,6 +4,7 @@ Content and references supporting my public engineering profile.
 
 The contents are intentionally minimal and focused on profile-level presentation.
 
+Updated periodically to reflect improvements in profile structure and presentation.
 
 Inspired by structured, problem-driven project practices aligned with Smart India Hackathon (SIH) standards.
 
